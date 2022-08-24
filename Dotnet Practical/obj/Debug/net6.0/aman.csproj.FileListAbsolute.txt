@@ -1,0 +1,15 @@
+/home/aman/Dotnet Practical/bin/Debug/net6.0/aman
+/home/aman/Dotnet Practical/bin/Debug/net6.0/aman.deps.json
+/home/aman/Dotnet Practical/bin/Debug/net6.0/aman.runtimeconfig.json
+/home/aman/Dotnet Practical/bin/Debug/net6.0/aman.dll
+/home/aman/Dotnet Practical/bin/Debug/net6.0/aman.pdb
+/home/aman/Dotnet Practical/obj/Debug/net6.0/aman.csproj.AssemblyReference.cache
+/home/aman/Dotnet Practical/obj/Debug/net6.0/aman.GeneratedMSBuildEditorConfig.editorconfig
+/home/aman/Dotnet Practical/obj/Debug/net6.0/aman.AssemblyInfoInputs.cache
+/home/aman/Dotnet Practical/obj/Debug/net6.0/aman.AssemblyInfo.cs
+/home/aman/Dotnet Practical/obj/Debug/net6.0/aman.csproj.CoreCompileInputs.cache
+/home/aman/Dotnet Practical/obj/Debug/net6.0/aman.dll
+/home/aman/Dotnet Practical/obj/Debug/net6.0/refint/aman.dll
+/home/aman/Dotnet Practical/obj/Debug/net6.0/aman.pdb
+/home/aman/Dotnet Practical/obj/Debug/net6.0/aman.genruntimeconfig.cache
+/home/aman/Dotnet Practical/obj/Debug/net6.0/ref/aman.dll

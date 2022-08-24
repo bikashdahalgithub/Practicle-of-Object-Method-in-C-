@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/aman/Dotnet Practical/aman.csproj": {}
+  },
+  "projects": {
+    "/home/aman/Dotnet Practical/aman.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/aman/Dotnet Practical/aman.csproj",
+        "projectName": "aman",
+        "projectPath": "/home/aman/Dotnet Practical/aman.csproj",
+        "packagesPath": "/home/aman/.nuget/packages/",
+        "outputPath": "/home/aman/Dotnet Practical/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/aman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/aman/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
